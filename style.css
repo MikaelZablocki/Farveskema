@@ -1,0 +1,123 @@
+
+/* Dette er Index */
+
+body {
+    background-color: hsl(212, 0%, 93%);
+  overflow: auto;
+    margin: 0;
+    
+}
+
+header {
+    border-bottom: 5px #4d814b60 solid ;
+    background-color: #cbe6d37a;
+    overflow: auto;
+    display: flex;
+    padding-left: 40px;
+    color: #4d3109;
+   position: sticky;
+   top: 0%;
+   justify-content: right;
+ }
+
+ .cta {
+    margin-top: 23px;
+    padding-top: 10px;
+     margin-bottom: 20px;
+     padding-bottom: 10px;
+    margin-right: 8%;
+    padding-right: 1%;
+    padding-left: 1%;
+    background-color: rgb(252, 207, 6);
+    text-decoration: none;
+    font-size: 20px;
+   opacity: 0.8;
+   border-radius: 8px;
+ }
+
+.cta:hover {
+    opacity: 1;
+}
+
+ .textheader {
+    padding-left: 20%;
+    padding-right: 25%;
+    font-size: 25px;
+   display: flex;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   }
+
+   
+
+ .hometext2 {
+    padding-left: 45px;
+    padding-right: 45px;
+ }
+
+  
+
+.img-fruit {
+    border: 3px rgb(255, 208, 0) solid;
+    height: 500px;
+    width: 500px;
+    float: right;
+    margin-top: 60px;
+    margin-right: 100px;
+    margin-bottom: 0;
+}
+
+.maintext {
+    padding-left: 8%;
+    
+}
+
+.mindremaintext {
+    font-size: 19px;
+    color: #4d3109;
+}
+
+.minimaintext {
+float: right;
+padding-right: 6%;
+
+}
+
+
+
+.ungespiserfrugt {
+    border: 3px rgb(255, 208, 0) solid;
+    margin-top: 3%;
+    height: 500px;
+    width: 700px;
+   overflow: auto;
+   margin-bottom: 2%;
+   }
+
+footer {
+  display: flex;
+       border-top: #4d814b solid 5px;   
+    font-size: 20px;
+    background-color: #a6c7b0 ;
+    color: #4d3109;
+}
+
+.footer-text {
+ padding-left: 15%;
+ padding-right: 16%;
+}
+
+.footer-text2 {
+    padding-right: 15%;
+}
+
+.webs {
+    text-decoration: none;
+    color: #10850c;
+}
+
+.webs:hover {
+background-color: #4d814b7a;
+}
+
+/* Her slutter index */
+
